@@ -24,7 +24,7 @@ This repository accompanies the Medium article: **"How I Use AI (Claude Code) to
 ## How to Use
 
 1. **Copy the prompt** you need from the `prompts/` folder
-2. **Customize placeholders** (like `VAN-XXXX` project key) to match your setup
+2. **Customize placeholders** (like `JIR-XXXX` project key) to match your setup
 3. **Paste into Claude** (Web, Desktop, or Code) and provide your input
 4. **Iterate** - adjust the prompts to fit your team's conventions
 
@@ -45,7 +45,7 @@ Ready for PR -> [04] PR Generator -> PR Title + Description
 
 ## Customization Tips
 
-- Replace `VAN` with your Jira project key
+- Replace `JIR` with your Jira project key
 - Adjust branch naming conventions (`bugfix/`, `feature/`, etc.)
 - Modify the PR description template to match your team's format
 - Add your own ticket URL base path
