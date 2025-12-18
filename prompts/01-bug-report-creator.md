@@ -57,7 +57,7 @@ INVESTIGATION STEPS:
 
 ## Jira creation rules
 1. Create the ticket using your Jira integration tool.
-2. Project key: VAN (replace with your project key)
+2. Project key: JIR (replace with your project key)
 3. Issue type: Defect
 4. Summary format: BUG | {Module} - {Short description}
 5. Description must include the full template above.
