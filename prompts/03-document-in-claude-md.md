@@ -6,7 +6,7 @@ Steps to execute:
 
 1) Get current branch name:
 - Run: git branch --show-current
-- Extract ticket ID from branch name (VAN-XXXX)
+- Extract ticket ID from branch name (JIR-XXXX)
 
 2) Get changes summary:
 - Run: git diff origin/develop --stat
