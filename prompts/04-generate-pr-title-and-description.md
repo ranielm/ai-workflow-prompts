@@ -7,11 +7,11 @@ Steps:
 2. Run: git diff origin/develop --stat
 3. Run: git diff origin/develop --name-only
 4. Run: git log origin/develop..HEAD --oneline
-5. Extract ticket ID from branch name (VAN-XXXX)
+5. Extract ticket ID from branch name (JIR-XXXX)
 6. Analyze changes to understand scope and intent
 
 PR title format (outside the description block):
-type(VAN-XXXX): imperative short description
+type(JIR-XXXX): imperative short description
 
 Type mapping:
 - bugfix branch -> fix
@@ -26,7 +26,7 @@ PR description template (must not exceed 3000 characters):
 ---
 
 ## Ticket Link
-* [JIRA Ticket: VAN-XXXX](REPLACE_WITH_YOUR_TICKET_URL)
+* [JIRA Ticket: JIR-XXXX](REPLACE_WITH_YOUR_TICKET_URL)
 
 ---
 
