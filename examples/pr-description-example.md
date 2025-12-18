@@ -3,7 +3,7 @@ Refactored a permissions table from a heavy grid to a lightweight virtualized li
 ---
 
 ## Ticket Link
-* [JIRA Ticket: VAN-XXXX](REPLACE_WITH_YOUR_TICKET_URL)
+* [JIRA Ticket: JIR-XXXX](REPLACE_WITH_YOUR_TICKET_URL)
 
 ---
 
